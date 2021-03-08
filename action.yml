@@ -1,0 +1,5 @@
+name: 'CV compiler'
+description: 'Compiles CV'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
