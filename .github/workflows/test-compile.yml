@@ -1,0 +1,13 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: main step
+        uses: actions/docker-cv@v1
+      
