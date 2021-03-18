@@ -1,2 +1,1 @@
-# Артем Сушков
-## БПМИ195
+# Docker + Latex + github actions practice
